@@ -61,7 +61,7 @@
                         <div class=" panel-primary panel-colorful col-md-3 col-xs-6">
                             <div class="pad-all text-center">
                                 <span class="text-3x text-thin">{{ \App\User::all()->count() }}</span>
-                                <p>Parishes</p>
+                                <p>Branches</p>
                                 <i class="icofont icofont-building-alt text-success"></i>
                             </div>
                         </div>

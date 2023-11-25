@@ -24,8 +24,6 @@
 
     <!--Nifty Stylesheet [ REQUIRED ]-->
     <link href="css/nifty.min.css" rel="stylesheet">
-
-
     <!--Nifty Premium Icon [ DEMONSTRATION ]-->
     <link href="css/demo/nifty-demo-icons.min.css" rel="stylesheet">
 

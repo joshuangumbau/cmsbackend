@@ -67,8 +67,8 @@
         }
 
         body {
-            background-image: url("{{ URL::asset('img/church_bg.jpg') }}");
-            background-color: #cccccc;
+            /* background-image: url("{{ URL::asset('img/church_bg.jpg') }}"); */
+            background-image: url('https://scontent.fnbo2-1.fna.fbcdn.net/v/t39.30808-6/400363812_741208631386376_7560462057796779648_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFbA3sXQ2pbrLw_Y6PO6aVNhz7FIB4YifmHPsUgHhiJ-SqvZLEqMWXhCKx3CIY4DC6-UfuBlwOz_nUhRSVwLbOk&_nc_ohc=gAP8la0MhhEAX8Q4Xe1&_nc_ht=scontent.fnbo2-1.fna&oh=00_AfAqn8TANlgbJUMCB6BPQpKcWWRPHJNuqUs0Vj42NGaUBw&oe=6565BE3E');            background-color: #cccccc;
             background-size: cover;
         }
 
@@ -96,12 +96,12 @@
         <div class="panel">
             <div class="content">
                 <div class="title m-b-md panel-heading">
-                    <b>ADBIN CMS</b>
+                    <b>ADMIN CMS</b>
                 </div>
-                <b><i>Binary made church easier</i></b>
+                <b><i>Church System made easier</i></b>
                 <div class="panel-footer">
                     <b>
-                        <h3 class="text-primary font-weight-bold">A Product Of <a href="http://myckhel.adbin.com.ng">
+                        <h3 class="text-primary font-weight-bold">A Product Of <a href="">
                                 {{ env('APP_NAME') }}</a></h3>
                     </b>
                 </div>
