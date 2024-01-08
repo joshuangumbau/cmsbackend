@@ -318,7 +318,7 @@
 									<li class="{{Route::currentRouteName() === 'groups' || Route::currentRouteName() === 'group.view' ? 'active-sub' : ''}}">
 										<a href="{{ route('groups') }}">
 											<i class="fa fa-users"></i>
-											<span class="menu-title">Small Groups</span>
+											<span class="menu-title">HBCs</span>
 
 										</a>
 									</li>
@@ -444,12 +444,12 @@
 											@endif
 										</ul>
 									</li>
-									<li class="{{Route::currentRouteName() == 'ticket' ? 'active-sub' : ''}}">
+									<!-- <li class="{{Route::currentRouteName() == 'ticket' ? 'active-sub' : ''}}">
 	                  <a href="{{ route('ticket') }}">
                       <i class="fa fa-life-ring"></i>
                       <span class="menu-title">Ticket</span>
 	                  </a>
-	                </li>
+	                </li> -->
 									<li>
 										<form id="logout" method="POST" action="{{route('logout')}}">
 		                  @csrf
@@ -488,7 +488,7 @@
 			<!-- Visible when footer positions are static -->
 			<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 			<div class="hide-fixed pull-right pad-rgt">
-			Powered By <a href="https://myckhel.adbin.com.ng" style="color:#274868;font-weight:bolder"> Myckhel </a>
+			Powered By <a href="" style="color:#274868;font-weight:bolder"> Ngumbau </a>
 			</div>
 			<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 			<!-- Remove the class "show-fixed" and "hide-fixed" to make the content always appears. -->

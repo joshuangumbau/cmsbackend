@@ -198,8 +198,8 @@
                                         <label for="show" class="">Show</label>
                                         <select id="show" required style="outline:none;" name="sort"
                                             class="selectpicker col-md-12" data-style="btn-primary">
-                                            <option selected value="false">This Parish</option>
-                                            <option value="true">All Parishes</option>
+                                            <option selected value="false">This branch</option>
+                                            <option value="true">All Btanches</option>
                                         </select>
                                     </div>
                                 @endif
@@ -500,7 +500,7 @@
 
                         @if ($user->isAdmin())
                             <div class="col-md-4">
-                                <h3 class="text-center">Parishes Owning</h3>
+                                <h3 class="text-center">Branches Owning</h3>
                                 <div class="table-responsive">
                                     <table id="owning-table" class="table table-sm table-striped table-bordered nowrap">
                                         <thead>

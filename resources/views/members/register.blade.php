@@ -104,13 +104,9 @@
                                                     <option value="Miss">Miss</option>
                                                     <option value="Dr">Dr</option>
                                                     <option value="Dr (Mrs)">Dr (Mrs)</option>
-                                                    <option value="Chief">Chief</option>
-                                                    <option value="Chief (Mrs)">Chief (Mrs)</option>
+                                                    <!-- <option value="Chief">Chief</option>
+                                                    <option value="Chief (Mrs)">Chief (Mrs)</option> -->
                                                     <option value="Engr">Engr</option>
-                                                    <option value="Elder">Elder</option>
-                                                    <option value="Surveyor"> Surveyor</option>
-                                                    <option value="Oba">Oba</option>
-                                                    <option value="Olori">Olori</option>
                                                 </select>
                                             </div>
                                         </div>
@@ -195,7 +191,7 @@
                                                     <option value="member">Member</option>
                                                     <option value="usher">Usher</option>
                                                     <option value="worker">Worker</option>
-                                                    <option value="chorister">Chorister</option>
+                                                    <!-- <option value="chorister">Chorister</option> -->
                                                     <option value="elder">Elder</option>
                                                     <option value="technician">Technician</option>
                                                     <option value="instrumentalist">Instrumentalist</option>
@@ -204,7 +200,7 @@
                                                     <option value="evangelist">Evangelist</option>
                                                     <option value="minister">Minister</option>
                                                     <option value="protocol">Protocol</option>
-                                                    <option value="hod">HOD</option>
+                                                    <!-- <option value="hod">HOD</option> -->
                                                 </select>
                                             </div>
                                         </div>

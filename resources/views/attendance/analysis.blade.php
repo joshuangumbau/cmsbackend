@@ -90,7 +90,7 @@
                     <div class="panel rounded-top">
                         <div class="panel-heading bg-dark">
                             <div class="col-xs-6">
-                                <h3 class="panel-title text-right">{{ date('Y') }} Last 7 Days Attnedance</h3>
+                                <h3 class="panel-title text-right">{{ date('Y') }} Last 7 Days Attendance</h3>
                             </div>
                             <div class="col-xs-6 panel-title">
                                 <div class="col-xs-4  small" style="background-color:#8c0e0e">Men</div>
@@ -113,7 +113,7 @@
                     <div class="panel rounded-top">
                         <div class="panel-heading bg-dark">
                             <div class="col-xs-6">
-                                <h3 class="panel-title text-right">Yearly Attnedance</h3>
+                                <h3 class="panel-title text-right">Yearly Attendance</h3>
                             </div>
                             <div class="col-xs-6 panel-title">
                                 <div class="col-xs-4  small" style="background-color:#8c0e0e">Men</div>
