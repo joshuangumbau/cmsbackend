@@ -54,7 +54,7 @@
             <div class="cls-content-lg panel">
                 <div class="panel-body">
                     <div class="mar-ver pad-btm text-light">
-                        <h1 class="h3 text-light">Create a New Branch Account</h1>
+                        <h1 class="h3 text-light">Create a New center Account</h1>
                         <p>Set up account.</p>
                     </div>
                     @if (isset($_GET['s']))
