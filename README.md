@@ -6,11 +6,6 @@
 </p>
 <!-- <a href="https://cms.trueworthfabrics.com.ng">Project Link</a> -->
 <details>
-  <!-- <summary>Logins!</summary>
-    ```
-- Email: kylemoose45@gmail.com
-    - Password: 123456789
-    ``` -->
 </details>
 
 # About Church Management System
@@ -22,7 +17,7 @@
 
 ## Clone project
 ```bash
-git clone https://github.com/joshuangumbau/church-management-system.git
+git clone https://github.com/joshuangumbau/cmsbackend.git
 ```
 ## Install Composer Dependencies
 ```bash
@@ -44,8 +39,8 @@ APP_URL=http://127.0.0.1:8000
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=cms
-DB_USERNAME=root
+DB_DATABASE=
+DB_USERNAME=
 DB_PASSWORD=
 
 MAIL_MAILER=smtp
@@ -75,8 +70,4 @@ php artisan serve
 
 ## Previews
 <!-- 
-![Dashboard view](https://github.com/myckhel/church-management-system/blob/master/public/img/cms.JPG)
-![Dashboard view2](https://github.com/myckhel/church-management-system/blob/master/public/img/cms2.JPG)
-![Dashboard view3](https://github.com/myckhel/church-management-system/blob/master/public/img/cms3.JPG)
-![Dashboard view4](https://github.com/myckhel/church-management-system/blob/master/public/img/cms4.JPG) -->
 # cmsbackend
